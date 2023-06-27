@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+
+\bibitem{Grisetti2010}
+G.~Grisetti, R.~Kummerle, C.~Stachniss, and W.~Burgard: ``A Tutorial on
+  Graph-Based SLAM,'' IEEE Intelligent Transportation Systems Magazine, Vol.~2,
+  No.~4, pp. 31--43, 2010.
+
+\bibitem{Baaij2010}
+C.~Baaij, M.~Kooijman, J.~Kuper, A.~Boeijink, and M.~Gerards: ``C$\lambda$aSH:
+  Structural Descriptions of Synchronous Hardware Using Haskell,'' 2010 13th
+  Euromicro Conference on Digital System Design: Architectures, Methods and
+  Tools, pp. 714--721, 2010.
+
+\bibitem{Mingas2012}
+Grigorios Mingas, Emmanouil Tsardoulias, and Loukas Petrou: ``An FPGA
+  implementation of the SMG-SLAM algorithm,'' Microprocessors and Microsystems,
+  Vol.~36, No.~3, pp. 190 -- 204, 2012.
+
+\bibitem{Ratter2013}
+A.~Ratter, C.~Sammut, and M.~McGill: ``GPU accelerated graph SLAM and occupancy
+  voxel based ICP for encoder-free mobile robots,'' 2013 IEEE/RSJ International
+  Conference on Intelligent Robots and Systems, pp. 540--547, 2013.
+
+\end{thebibliography}
