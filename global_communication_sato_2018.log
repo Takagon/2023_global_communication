@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.6.4)  29 JUN 2023 22:46
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2023.6.4)  30 JUN 2023 00:07
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -249,35 +249,35 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 40.
 LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <9> not available
-(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 78.
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 78.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 78.
+(Font)              scaled to size 8.64899pt on input line 71.
 LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <9> not available
-(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 78.
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 78.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 78.
+(Font)              scaled to size 8.64899pt on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 97.
+(Font)              <9> on input line 90.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 97.
+(Font)              <6> on input line 90.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 97.
+(Font)              scaled to size 5.76599pt on input line 90.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 98.
+(Font)              scaled to size 5.76599pt on input line 91.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 4.805pt on input line 98.
+(Font)              scaled to size 4.805pt on input line 91.
 LaTeX Font Info:    Font shape `JT1/mc/m/sl' in size <10> not available
-(Font)              Font shape `JT1/mc/m/n' tried instead on input line 134.
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 134.
+(Font)              scaled to size 9.60999pt on input line 127.
 LaTeX Font Info:    Font shape `JY1/mc/m/sl' in size <10> not available
-(Font)              Font shape `JY1/mc/m/n' tried instead on input line 134.
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 134.
+(Font)              scaled to size 9.60999pt on input line 127.
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
 Make it at least 16.0pt.
@@ -292,9 +292,9 @@ This may cause the page layout to be inconsistent, however.
 File: ./images/example_input_and_output.png Graphic file (type bmp)
 <./images/example_input_and_output.png>
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 159.
+(Font)              scaled to size 6.72699pt on input line 152.
 
-Underfull \vbox (badness 1199) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 (./global_communication_sato_2018.bbl
@@ -317,4 +317,4 @@ Here is how much of TeX's memory you used:
  269 hyphenation exceptions out of 8191
  41i,14n,45p,297b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on global_communication_sato_2018.dvi (2 pages, 18972 bytes).
+Output written on global_communication_sato_2018.dvi (2 pages, 18404 bytes).
